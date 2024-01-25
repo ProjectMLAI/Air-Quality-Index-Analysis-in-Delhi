@@ -1,25 +1,26 @@
-# Air-Quality-Index-Analysis-in-Delhi
-This project presents a comprehensive analysis of the Air Quality Index (AQI) in Delhi. Utilizing extensive AQI data, this analysis provides crucial insights into the patterns and impacts of air pollution in one of the world's most densely populated urban areas.
+# Air Quality Index Analysis in Delhi - Diwali Focus
+About the Project
+This project offers an in-depth analysis of the Air Quality Index (AQI) in Delhi, with a special emphasis on the impact of Diwali, the festival of lights. Given the significant increase in pollution levels during Diwali due to fireworks and celebrations, this analysis provides critical insights into its environmental repercussions.
+
 ## Background
-Delhi's air quality has been a subject of growing concern, affecting millions of residents. Understanding the AQI patterns is vital for formulating effective environmental policies and health advisories.
+Delhi's struggle with air pollution is exacerbated during Diwali. Understanding how this festival affects AQI is essential for targeted environmental strategies and public health advisories.
 
 ## Data Source
-The AQI data is sourced from [mention the specific source here, e.g., a government database or a public dataset]. This dataset encompasses daily AQI readings from various locations across Delhi over multiple years.
+The AQI data is sourced from [specify the data source]. It includes daily readings from various locations in Delhi over several years, providing a comprehensive view of air quality trends, particularly around Diwali.
 
 ## Methodology
-The analysis involves:
+The analysis includes:
 
-## Comparative study of AQI over different years.
-Focus on Diwali, a period known for heightened pollution levels.
-Data visualization, trend analysis, and statistical comparison techniques.
+## Comparative AQI study across different years.
+Detailed examination of AQI variations during and around Diwali.
+Utilization of data visualization and statistical analysis for deeper insights.
 ## Features
-Jupyter Notebook: Detailed analysis with interactive data visualization.
-Contextual Analysis: Year-wise and event-specific insights.
-Environmental Impact: Special focus on the Diwali period.
+Jupyter Notebook Analysis: Interactive and detailed exploration of AQI data.
+Diwali Special Focus: Assessing the festival's specific impact on Delhi's air quality.
+Visual & Statistical Insights: Easy-to-understand visualizations and robust statistical findings.
 ## How to Use
 Clone the repository.
-Ensure you have Jupyter Notebook installed.
-Open the AQI_delhi.ipynb file in Jupyter Notebook to view and run the analysis.
+Install Jupyter Notebook if not already installed.
+Open AQI_delhi.ipynb in Jupyter Notebook to view the analysis.
 ## Conclusion
-The project sheds light on the significant fluctuations in Delhi's AQI, emphasizing the need for continued environmental monitoring and policy intervention. It's a resource for policymakers, environmentalists, and the general public to understand and act upon air pollution dynamics.
-
+This project highlights the stark impact of Diwali on Delhi's air quality. The findings are vital for informed decision-making by policymakers and environmentalists and for raising public awareness about the ecological effects of festive traditions.
